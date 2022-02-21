@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Salma0104 
+- 🌱 I’m currently learning Ruby on rails and expanding my knowledge on java and python
+- 💞️ I’m looking to collaborate on interesting projects mainly using python or java.
+- 📫 You can reach me via email - Salmahassan0104@gmail.com
